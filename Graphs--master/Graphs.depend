@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543493805 source:c:\users\alienware\desktop\graphs\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iterator>
+	<stdlib.h>
+	<list>
+	<bits/stdc++.h>
+

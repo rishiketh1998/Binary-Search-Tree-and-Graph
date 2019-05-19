@@ -1,0 +1,7 @@
+The path found is 21
+There is a path
+Enter the start vertex for BFS 1
+Following is Breadth First Traversal : 1023
+Enter the start vertex for DFS 2
+Following is Depth First Traversal : 2310
+Graph is not Strongly Connected

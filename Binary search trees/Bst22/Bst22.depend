@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544487297 source:c:\users\alienware\desktop\binary search trees\bst22\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<vector>
+
